@@ -1,0 +1,13 @@
+<map id="vm/physMem.h" name="vm/physMem.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="342,5,465,31"/>
+<area shape="rect" id="Node000002" href="$addrspace_8cc.html" title="Routines to manage address spaces (executing user programs)." alt="" coords="5,79,156,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,36,133,81,132,76,338,31"/>
+<area shape="rect" id="Node000003" href="$system_8cc.html" title="Nachos initialization and cleanup routines." alt="" coords="180,79,312,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="367,39,273,81,271,76,364,34"/>
+<area shape="rect" id="Node000004" href="$mmu_8cc.html" title="Routines to translate virtual addresses to physical addresses." alt="" coords="336,79,471,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,44,406,79,401,79,401,44"/>
+<area shape="rect" id="Node000005" href="$pagefaultmanager_8cc.html" title=" " alt="" coords="495,79,679,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="447,33,558,76,556,81,445,38"/>
+<area shape="rect" id="Node000006" href="$physMem_8cc.html" title=" " alt="" coords="704,79,833,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="476,31,710,76,709,81,475,36"/>
+</map>

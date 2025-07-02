@@ -1,0 +1,17 @@
+<map id="machine/console.h" name="machine/console.h">
+<area shape="rect" id="Node000001" title="Data structures to simulate the behavior of a terminal." alt="" coords="452,5,596,31"/>
+<area shape="rect" id="Node000002" href="$drvConsole_8h.html" title="Data structures to export a synchronous interface to the console device." alt="" coords="358,79,514,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,41,452,81,449,76,498,37"/>
+<area shape="rect" id="Node000008" href="$console_8cc.html" title="Routines to simulate a serial port to a console device." alt="" coords="538,79,689,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="551,37,600,76,597,81,547,41"/>
+<area shape="rect" id="Node000003" href="$drvConsole_8cc.html" title="Routines to synchronously access the console." alt="" coords="5,152,168,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,109,144,155,143,149,366,104"/>
+<area shape="rect" id="Node000004" href="$exception_8cc.html" title="Entry point into the Nachos kernel ." alt="" coords="193,152,341,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,112,295,154,293,149,395,107"/>
+<area shape="rect" id="Node000005" href="$msgerror_8cc.html" title="Data structure to store the last syscall error message." alt="" coords="365,152,507,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="439,118,439,152,433,152,433,118"/>
+<area shape="rect" id="Node000006" href="$system_8cc.html" title="Nachos initialization and cleanup routines." alt="" coords="531,152,663,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="475,107,572,149,570,154,473,112"/>
+<area shape="rect" id="Node000007" href="$machine_8cc.html" title="Routines to simulate the execution of user programs. DO NOT CHANGE – part of the machine emulation." alt="" coords="687,152,843,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="503,104,713,149,711,154,501,109"/>
+</map>

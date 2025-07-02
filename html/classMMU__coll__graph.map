@@ -1,0 +1,7 @@
+<map id="MMU" name="MMU">
+<area shape="rect" id="Node000001" title="Defines a MMU &#45; Memory Management Unit." alt="" coords="31,621,137,767"/>
+<area shape="rect" id="Node000002" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="5,293,163,559"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,559,87,605,81,605,81,559"/>
+<area shape="rect" id="Node000003" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="15,5,153,231"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,231,87,277,81,277,81,231"/>
+</map>

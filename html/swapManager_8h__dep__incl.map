@@ -1,0 +1,19 @@
+<map id="vm/swapManager.h" name="vm/swapManager.h">
+<area shape="rect" id="Node000001" title="Data structures for the swap mamager." alt="" coords="229,5,378,31"/>
+<area shape="rect" id="Node000002" href="$system_8cc.html" title="Nachos initialization and cleanup routines." alt="" coords="5,152,137,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,41,91,154,89,149,271,36"/>
+<area shape="rect" id="Node000003" href="$pagefaultmanager_8cc.html" title=" " alt="" coords="162,152,346,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,45,282,80,260,152,255,151,277,78,290,43"/>
+<area shape="rect" id="Node000004" href="$physMem_8h.html" title=" " alt="" coords="291,79,414,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,41,347,77,342,80,317,44"/>
+<area shape="rect" id="Node000008" href="$swapManager_8cc.html" title="Routines of the swap manager." alt="" coords="438,79,593,104"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="351,32,482,76,480,81,349,37"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="295,110,118,154,116,149,294,105"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="328,114,272,154,269,150,324,110"/>
+<area shape="rect" id="Node000005" href="$addrspace_8cc.html" title="Routines to manage address spaces (executing user programs)." alt="" coords="371,152,521,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="380,110,432,150,429,154,377,114"/>
+<area shape="rect" id="Node000006" href="$mmu_8cc.html" title="Routines to translate virtual addresses to physical addresses." alt="" coords="545,152,680,177"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="408,105,571,149,570,154,407,110"/>
+<area shape="rect" id="Node000007" href="$physMem_8cc.html" title=" " alt="" coords="704,152,833,177"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="428,103,704,150,704,155,427,108"/>
+</map>

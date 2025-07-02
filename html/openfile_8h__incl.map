@@ -1,0 +1,37 @@
+<map id="filesys/openfile.h" name="filesys/openfile.h">
+<area shape="rect" id="Node000001" title="Data structures to manipulate files." alt="" coords="295,5,427,31"/>
+<area shape="rect" id="Node000002" href="$copyright_8h.html" title="Nachos copyright notice." alt="" coords="415,445,553,471"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,28,475,45,529,72,553,89,571,110,584,135,588,163,588,313,580,351,561,386,537,416,512,438,509,435,533,412,557,383,575,350,583,312,583,164,578,137,567,113,549,93,527,76,473,50,420,33"/>
+<area shape="rect" id="Node000003" href="$utility_8h.html" title="Miscellaneous useful definitions, including debugging routines." alt="" coords="268,299,380,324"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,33,313,53,289,80,272,117,267,149,267,226,265,238,266,250,280,271,297,288,293,292,275,274,262,252,259,238,261,225,262,149,267,116,284,77,309,49,338,29"/>
+<area shape="rect" id="Node000009" href="$system_8h.html" title="Global variables used in Nachos." alt="" coords="298,79,425,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="364,31,364,65,359,65,359,31"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="344,322,410,370,442,402,468,433,464,436,438,406,406,374,341,326"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="71,445,142,471"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="268,319,234,325,199,336,165,351,135,374,125,387,118,402,111,432,106,431,113,400,121,384,131,370,162,347,197,331,233,320,267,314"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="145,372,231,397"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="303,326,223,368,221,363,301,322"/>
+<area shape="rect" id="Node000006" href="$sysdep_8h.html" title="System&#45;dependent interface." alt="" coords="255,372,395,397"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="327,324,328,358,322,359,322,324"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="352,395,447,437,445,442,350,400"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="291,400,156,444,154,438,289,395"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="183,445,249,471"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="309,400,247,440,244,435,306,395"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="290,445,361,471"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="328,398,328,432,323,432,323,398"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="302,107,213,127,116,157,73,175,39,194,16,215,10,226,8,237,8,312,15,350,34,383,58,412,82,435,78,438,54,416,29,386,10,351,3,313,3,236,5,224,12,212,36,190,71,170,114,152,212,122,301,101"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="348,107,303,146,242,207,181,284,156,328,136,373,133,385,136,396,154,419,178,437,175,441,151,423,131,399,127,385,131,371,151,325,177,281,238,203,299,142,344,102"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="497,225,548,251"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="405,102,448,120,470,134,489,150,508,180,520,211,515,213,504,182,485,154,466,138,446,125,403,107"/>
+<area shape="rect" id="Node000011" href="$list_8h.html" title="Data structures to manage LISP&#45;like lists." alt="" coords="276,225,372,251"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="359,105,341,153,330,212,324,211,336,151,354,103"/>
+<area shape="rect" id="Node000012" href="$objaddr_8h.html" title="Object address data structure." alt="" coords="350,152,474,177"/>
+<area shape="poly" id="edge18_Node000009_Node000012" title=" " alt="" coords="365,103,390,140,386,143,361,106"/>
+<area shape="poly" id="edge16_Node000011_Node000002" title=" " alt="" coords="341,249,367,270,394,297,420,331,443,368,476,432,471,434,439,371,416,335,390,300,364,274,338,253"/>
+<area shape="poly" id="edge17_Node000011_Node000003" title=" " alt="" coords="327,251,327,285,321,285,321,251"/>
+<area shape="poly" id="edge19_Node000012_Node000002" title=" " alt="" coords="418,177,469,371,482,431,477,433,464,373,413,178"/>
+<area shape="poly" id="edge20_Node000012_Node000003" title=" " alt="" coords="413,178,404,213,386,252,370,273,351,292,348,288,366,270,382,249,399,211,407,177"/>
+<area shape="poly" id="edge22_Node000012_Node000009" title=" " alt="" coords="408,153,383,116,388,113,413,150"/>
+<area shape="poly" id="edge23_Node000012_Node000010" title=" " alt="" coords="431,175,494,215,491,220,428,180"/>
+<area shape="poly" id="edge21_Node000012_Node000011" title=" " alt="" coords="400,179,351,219,347,214,396,175"/>
+</map>

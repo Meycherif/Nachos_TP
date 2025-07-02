@@ -1,0 +1,40 @@
+<map id="SwapManager" name="SwapManager">
+<area shape="rect" id="Node000001" title="Implements the swap manager." alt="" coords="746,2493,903,2679"/>
+<area shape="rect" id="Node000002" href="$classDriverDisk.html" title="Defines a &quot;synchronous&quot; disk abstraction." alt="" coords="693,2215,818,2361"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="769,2360,791,2469,793,2477,788,2478,786,2470,764,2361"/>
+<area shape="rect" id="Node000003" href="$classSemaphore.html" title="Defines the &quot;semaphore&quot; synchronization tool." alt="" coords="693,1837,817,2023"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="758,2023,758,2199,753,2199,753,2023"/>
+<area shape="rect" id="Node000004" href="$classList.html" title="Definition of a generic single&#45;linked &quot;list&quot;." alt="" coords="688,1409,823,1715"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="758,1715,758,1821,753,1821,753,1715"/>
+<area shape="rect" id="Node000005" href="$classLock.html" title="Defines the &quot;lock&quot; synchronization tool." alt="" coords="479,1827,669,2033"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="690,1700,677,1717,661,1729,647,1740,625,1775,608,1813,603,1811,621,1773,643,1737,658,1724,673,1713,686,1697"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="628,2031,714,2199,709,2202,623,2034"/>
+<area shape="rect" id="Node000006" href="$classThread.html" title="Data structures for managing threads" alt="" coords="213,1409,386,1715"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="388,1677,490,1812,485,1815,384,1681"/>
+<area shape="rect" id="Node000007" href="$classProcess.html" title="Defines the data structures to keep track of the execution environment of a user program." alt="" coords="422,1151,531,1277"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="448,1278,387,1396,382,1394,443,1275"/>
+<area shape="rect" id="Node000010" href="$classAddrSpace.html" title="Defines the data structures to keep track of memory resources of executing user programs (address spa..." alt="" coords="471,1439,663,1685"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="470,1277,468,1330,475,1385,488,1423,483,1425,470,1386,463,1330,465,1277"/>
+<area shape="rect" id="Node000008" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="595,593,727,939"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="614,940,584,1020,556,1081,524,1138,520,1136,551,1079,580,1018,609,938"/>
+<area shape="rect" id="Node000013" href="$structs__mapped__file.html" title="Information describing a memory&#45;mapped file." alt="" coords="605,1171,717,1257"/>
+<area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="663,939,663,1155,658,1155,658,939"/>
+<area shape="rect" id="Node000009" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="583,5,738,451"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="663,451,663,577,658,577,658,451"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="550,1440,535,1371,508,1293,513,1291,541,1370,555,1439"/>
+<area shape="rect" id="Node000011" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="741,1081,898,1347"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="769,1348,737,1387,721,1397,706,1401,692,1403,677,1412,657,1429,653,1425,674,1407,690,1398,705,1395,719,1392,734,1383,765,1345"/>
+<area shape="rect" id="Node000012" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="751,653,888,879"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="822,879,822,1065,817,1065,817,879"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="657,1257,647,1318,631,1386,620,1424,615,1423,626,1385,641,1317,652,1256"/>
+<area shape="rect" id="Node000014" href="$classProcessStat.html" title="Defines statistics that concern a particular process." alt="" coords="375,513,570,1019"/>
+<area shape="poly" id="edge16_Node000007_Node000014" title=" " alt="" coords="478,1019,479,1135,473,1135,472,1019"/>
+<area shape="rect" id="Node000015" href="$structsimulatorContextT.html" title="Defines the context of the Nachos simulator." alt="" coords="5,1161,140,1267"/>
+<area shape="poly" id="edge17_Node000006_Node000015" title=" " alt="" coords="74,1267,80,1325,88,1356,100,1384,121,1415,145,1444,201,1494,197,1498,142,1448,116,1419,96,1387,83,1357,75,1326,69,1267"/>
+<area shape="rect" id="Node000016" href="$structthreadContextT.html" title="Defines the thread context (MIPS virtual machine)" alt="" coords="176,1161,297,1267"/>
+<area shape="poly" id="edge18_Node000006_Node000016" title=" " alt="" coords="235,1267,235,1324,241,1385,242,1393,237,1394,235,1386,230,1324,230,1267"/>
+<area shape="rect" id="Node000017" href="$classDisk.html" title="Defines a physical disk I/O device." alt="" coords="842,1777,991,2083"/>
+<area shape="poly" id="edge19_Node000002_Node000017" title=" " alt="" coords="863,2084,846,2123,832,2147,803,2202,798,2199,828,2144,841,2120,858,2082"/>
+<area shape="rect" id="Node000018" href="$classBitMap.html" title="Defines a &quot;bitmap&quot; – an array of bits." alt="" coords="842,2145,949,2431"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="877,2431,869,2470,866,2479,861,2477,863,2469,872,2430"/>
+</map>

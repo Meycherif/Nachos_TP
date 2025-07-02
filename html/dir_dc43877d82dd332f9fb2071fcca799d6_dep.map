@@ -1,0 +1,21 @@
+<map id="kernel" name="kernel">
+<area shape="rect" id="node1" href="dir_dc43877d82dd332f9fb2071fcca799d6.html" title="kernel" alt="" coords="244,5,307,31"/>
+<area shape="rect" id="node2" href="dir_0909f4a7c39d3e9616c1c9d755842fcb.html" title="machine" alt="" coords="5,79,84,104"/>
+<area shape="poly" id="edge1" href="dir_000002_000003.html" alt="" coords="245,32,96,77,94,72,243,26"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000002_000003.html" title="3" alt="" coords="97,74,106,89"/>
+<area shape="rect" id="node3" href="dir_14bc92f4b96c8519b376567118ac28b3.html" title="drivers" alt="" coords="109,79,175,104"/>
+<area shape="poly" id="edge2" href="dir_000002_000000.html" alt="" coords="255,33,177,74,175,70,253,28"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000002_000000.html" title="6" alt="" coords="179,70,188,85"/>
+<area shape="rect" id="node4" href="dir_386a01e8c60160d2cb79aec927decd2f.html" title="filesys" alt="" coords="199,79,263,104"/>
+<area shape="poly" id="edge3" href="dir_000002_000001.html" alt="" coords="270,32,248,68,243,66,266,30"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000002_000001.html" title="11" alt="" coords="247,60,264,75"/>
+<area shape="rect" id="node5" href="dir_4f362d0804e15fbaa8fa3764461436d7.html" title="userlib" alt="" coords="287,79,354,104"/>
+<area shape="poly" id="edge4" href="dir_000002_000004.html" alt="" coords="285,30,308,66,304,69,281,32"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000002_000004.html" title="1" alt="" coords="306,51,315,66"/>
+<area shape="rect" id="node6" href="dir_64e73385a8b7738563c26ce10415b58d.html" title="utility" alt="" coords="379,79,439,104"/>
+<area shape="poly" id="edge5" href="dir_000002_000005.html" alt="" coords="298,28,376,70,374,74,296,33"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000002_000005.html" title="15" alt="" coords="366,55,383,70"/>
+<area shape="rect" id="node7" href="dir_93effe02d2e8dd09437fb49d0adaddf7.html" title="vm" alt="" coords="463,79,506,104"/>
+<area shape="poly" id="edge6" href="dir_000002_000006.html" alt="" coords="308,28,451,76,450,81,306,33"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000002_000006.html" title="5" alt="" coords="444,62,453,76"/>
+</map>

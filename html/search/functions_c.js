@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['n_5fatoi_0',['n_atoi',['../libnachos_8h.html#a96fcb0bb050679b5471dbff5c0736a5d',1,'libnachos.h']]],
+  ['n_5fmemcmp_1',['n_memcmp',['../libnachos_8h.html#a3aea711b4b047e35689c21cad278ca50',1,'libnachos.h']]],
+  ['n_5fmemcpy_2',['n_memcpy',['../libnachos_8h.html#a7a7232a35c177b5a14585fa9afa717ab',1,'libnachos.h']]],
+  ['n_5fmemset_3',['n_memset',['../libnachos_8h.html#ae9db0a32a1fbfb78c46e8140f21d74f9',1,'libnachos.h']]],
+  ['n_5fprintf_4',['n_printf',['../libnachos_8h.html#a07416325b8a6451033f69e4851a4c2a9',1,'libnachos.h']]],
+  ['n_5fread_5fint_5',['n_read_int',['../libnachos_8h.html#a6a5c30ec28f5e474e9cecc7b852940fa',1,'libnachos.h']]],
+  ['n_5fsnprintf_6',['n_snprintf',['../libnachos_8h.html#abf49ab44b4f057eb51f9d14d4d8a61f6',1,'libnachos.h']]],
+  ['n_5fstrcat_7',['n_strcat',['../libnachos_8h.html#a0a6cab7c8b82c3ea08f1dd46fec68fc2',1,'libnachos.h']]],
+  ['n_5fstrcmp_8',['n_strcmp',['../libnachos_8h.html#af6283a9962fc5b57051e70f097b25013',1,'libnachos.h']]],
+  ['n_5fstrcpy_9',['n_strcpy',['../libnachos_8h.html#a165ce7a53ee4256c2bb6001b1ad79096',1,'libnachos.h']]],
+  ['n_5fstrlen_10',['n_strlen',['../libnachos_8h.html#aa38f1b4bbfdfc6028915f074326c6cc8',1,'libnachos.h']]],
+  ['n_5ftolower_11',['n_tolower',['../libnachos_8h.html#ac427311e5e70728cdff324a24ccd280a',1,'libnachos.h']]],
+  ['n_5ftoupper_12',['n_toupper',['../libnachos_8h.html#aed5d799e56965d177d1e46fddd2dd6aa',1,'libnachos.h']]],
+  ['newprocstat_13',['NewProcStat',['../classStatistics.html#aebf30c9d5584ea4a4edda92c4302c3ed',1,'Statistics']]],
+  ['newthread_14',['newThread',['../syscall_8h.html#a82946deb47c7fa10fa9a0127253eb430',1,'syscall.h']]],
+  ['next_5fentry_15',['next_entry',['../classOpenFileTable.html#a6b64dcb8c4bd7aa0cc77364afd344532',1,'OpenFileTable']]],
+  ['numclear_16',['NumClear',['../classBitMap.html#af73514736aff03229d58557d0423daca',1,'BitMap']]]
+];

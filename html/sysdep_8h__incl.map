@@ -1,0 +1,11 @@
+<map id="machine/sysdep.h" name="machine/sysdep.h">
+<area shape="rect" id="Node000001" title="System&#45;dependent interface." alt="" coords="181,5,321,31"/>
+<area shape="rect" id="Node000002" href="$copyright_8h.html" title="Nachos copyright notice." alt="" coords="5,79,144,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,33,117,76,115,71,221,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="169,79,239,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,32,221,69,217,66,241,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="264,79,331,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,30,284,66,280,69,256,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="355,79,426,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,28,357,70,355,75,272,33"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['back_20on_20the_20ready_20queue_0',['put back on the ready queue.',['../thread_8cc.html#autotoc_md61',1,'']]],
+  ['badvaddr_5freg_1',['badvaddr_reg',['../classMachine.html#a77776aed61ff0ce64feaec5685da1fd2',1,'Machine']]],
+  ['based_20on_20a_20command_20line_20argument_2',['print DEBUG statements, based on a command line argument.',['../utility_8cc.html#autotoc_md143',1,'']]],
+  ['be_20disabled_20or_20enabled_3',['that be disabled or enabled).',['../synch_8cc.html#autotoc_md53',1,'']]],
+  ['be_20either_20on_20or_20off_20represented_20as_20an_20array_20of_20integers_4',['can be either on or off.  Represented as an array of integers.',['../bitmap_8cc.html#autotoc_md127',1,'']]],
+  ['bitmap_5',['bitmap',['../classBitMap.html',1,'BitMap'],['../classBitMap.html#a957cdc72d04ce006b2efce59caa90379',1,'BitMap::BitMap()']]],
+  ['bitmap_2ecc_6',['bitmap.cc',['../bitmap_8cc.html',1,'']]],
+  ['bitmap_2eh_7',['bitmap.h',['../bitmap_8h.html',1,'']]],
+  ['bits_5fin_5fbyte_8',['BITS_IN_BYTE',['../bitmap_8h.html#ac54bd5b32c8baefaf13608a9296a7564',1,'bitmap.h']]],
+  ['bits_5fin_5fword_9',['BITS_IN_WORD',['../bitmap_8h.html#ab0fdbf6c760ea9433bc7e94c9a775399',1,'bitmap.h']]],
+  ['brief_20routines_20for_20setting_20up_20the_20nachos_20hardware_20and_20software_20confuguration_10',['\brief Routines for setting up the Nachos hardware and software confuguration',['../config_8cc.html#autotoc_md131',1,'']]],
+  ['brief_20routines_20to_20manage_20processes_11',['\brief Routines to manage processes',['../process_8cc.html#autotoc_md45',1,'']]],
+  ['broadcast_12',['Broadcast',['../classCondition.html#a409f5a5b650b295f9af7fe2bb8ccf78b',1,'Condition']]],
+  ['buf_13',['buf',['../structsimulatorContextT.html#afe38dd89b87d445abef2f97f37226fc1',1,'simulatorContextT']]],
+  ['buffer_5fsize_14',['BUFFER_SIZE',['../drvACIA_8h.html#a6b20d41d6252e9871430c242cb1a56e7',1,'drvACIA.h']]],
+  ['bufferinit_15',['bufferInit',['../classDisk.html#a1de9a24527782fe0ad3bad8096951077',1,'Disk']]],
+  ['buserror_5fexception_16',['BUSERROR_EXCEPTION',['../machine_8h.html#acc6a4e1741d2f96cf2e1ac3229da361aa2994515a78566b78b53e472898fffb97',1,'machine.h']]],
+  ['busy_5fwaiting_17',['BUSY_WAITING',['../ACIA_8h.html#ac152b9b33956a2b369eabc5b7819ca6c',1,'ACIA.h']]],
+  ['by_20the_20c_20compiler_18',['changed by the C++ compiler.',['../sysdep_8cc.html#autotoc_md99',1,'']]],
+  ['by_20typing_20the_20program_20name_20in_20the_20nachos_20shell_19',['- by typing the program name in the Nachos shell',['../addrspace_8cc.html#autotoc_md31',1,'']]],
+  ['byte_20has_20departed_20',['byte has departed.',['../console_8cc.html#autotoc_md75',1,'']]],
+  ['bytetosector_21',['ByteToSector',['../classFileHeader.html#adacbe1c1af441d0b1e978c65a05d60f2',1,'FileHeader']]]
+];

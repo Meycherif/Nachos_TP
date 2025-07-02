@@ -1,0 +1,23 @@
+<map id="machine/interrupt.h" name="machine/interrupt.h">
+<area shape="rect" id="Node000001" title="Data structures to emulate low&#45;level interrupt hardware." alt="" coords="5,5,156,31"/>
+<area shape="rect" id="Node000002" href="$copyright_8h.html" title="Nachos copyright notice." alt="" coords="65,299,203,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,32,68,64,65,84,66,104,82,178,108,250,124,285,119,287,104,252,77,179,61,104,60,84,63,63,73,30"/>
+<area shape="rect" id="Node000003" href="$list_8h.html" title="Data structures to manage LISP&#45;like lists." alt="" coords="75,79,171,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,30,112,66,107,68,85,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,105,115,167,113,209,117,250,126,285,121,287,111,251,108,209,110,167,118,104"/>
+<area shape="rect" id="Node000004" href="$utility_8h.html" title="Miscellaneous useful definitions, including debugging routines." alt="" coords="195,152,307,177"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="145,102,219,143,217,147,143,106"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="253,178,245,213,238,233,227,252,202,276,174,294,172,290,199,272,223,249,233,231,240,212,248,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="269,299,340,324"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="258,177,298,285,293,287,253,179"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="127,225,213,251"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="240,179,195,218,192,214,237,175"/>
+<area shape="rect" id="Node000007" href="$sysdep_8h.html" title="System&#45;dependent interface." alt="" coords="340,225,480,251"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="278,175,373,217,371,222,276,180"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="366,253,193,298,191,293,365,248"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="395,253,334,293,332,289,392,248"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="466,299,533,324"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="426,249,476,288,472,292,423,253"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="371,299,441,324"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="412,251,410,285,405,285,407,251"/>
+</map>

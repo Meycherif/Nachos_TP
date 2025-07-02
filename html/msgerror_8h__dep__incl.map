@@ -1,0 +1,52 @@
+<map id="kernel/msgerror.h" name="kernel/msgerror.h">
+<area shape="rect" id="Node000001" title="Defines the data structure to store error messages during." alt="" coords="1612,5,1748,31"/>
+<area shape="rect" id="Node000002" href="$drvACIA_8cc.html" title=" " alt="" coords="5,79,147,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1599,22,1355,26,999,34,583,52,159,81,147,82,146,77,158,76,583,47,999,29,1355,20,1599,17"/>
+<area shape="rect" id="Node000003" href="$directory_8cc.html" title="Routines to manage a directory of file names." alt="" coords="171,79,314,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1599,23,1064,37,699,55,327,81,314,83,314,77,326,76,699,49,1064,32,1599,18"/>
+<area shape="rect" id="Node000004" href="$filesys_8cc.html" title="Routines to manage the overall operation of the file system." alt="" coords="339,79,467,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1598,23,1123,38,804,55,479,81,467,83,467,77,478,76,803,50,1123,33,1598,18"/>
+<area shape="rect" id="Node000005" href="$fsmisc_8cc.html" title="Miscellaneous routines for the Nachos file system." alt="" coords="491,79,621,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1598,24,1184,41,911,58,634,81,621,83,621,77,633,76,910,52,1184,36,1598,19"/>
+<area shape="rect" id="Node000006" href="$oftable_8cc.html" title="Routines for managing the open file table." alt="" coords="645,79,776,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1598,25,1246,44,1018,60,788,81,776,83,776,77,788,76,1018,55,1245,39,1598,20"/>
+<area shape="rect" id="Node000007" href="$openfile_8cc.html" title="Routines to manage an open Nachos file" alt="" coords="800,79,939,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1598,27,1314,49,958,81,939,83,939,78,957,76,1314,43,1598,22"/>
+<area shape="rect" id="Node000008" href="$addrspace_8cc.html" title="Routines to manage address spaces (executing user programs)." alt="" coords="901,152,1051,177"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1598,24,1440,30,1254,41,1091,58,1035,68,1004,81,991,96,984,116,979,152,973,151,978,114,987,94,1001,77,1034,63,1091,52,1253,36,1440,25,1598,19"/>
+<area shape="rect" id="Node000009" href="$elf_8h.html" title="Data structures pertaining to the ELF32 and ELF64 1.1 file format specification." alt="" coords="1014,79,1109,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1599,29,1383,49,1122,81,1110,83,1109,78,1121,76,1382,44,1598,23"/>
+<area shape="rect" id="Node000011" href="$exception_8cc.html" title="Entry point into the Nachos kernel ." alt="" coords="1133,79,1281,104"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="1599,34,1281,82,1280,76,1598,29"/>
+<area shape="rect" id="Node000012" href="$main_8cc.html" title="Bootstrap code to initialize the operating system kernel." alt="" coords="1305,79,1423,104"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="1617,36,1416,81,1415,76,1615,31"/>
+<area shape="rect" id="Node000013" href="$msgerror_8cc.html" title="Data structure to store the last syscall error message." alt="" coords="1446,79,1589,104"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1642,39,1545,81,1543,76,1640,34"/>
+<area shape="rect" id="Node000014" href="$process_8cc.html" title=" " alt="" coords="1613,79,1747,104"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1683,44,1683,79,1677,79,1677,44"/>
+<area shape="rect" id="Node000015" href="$synch_8cc.html" title="Routines for synchronizing threads." alt="" coords="1772,79,1895,104"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="1718,34,1809,76,1807,81,1716,39"/>
+<area shape="rect" id="Node000016" href="$system_8cc.html" title="Nachos initialization and cleanup routines." alt="" coords="1919,79,2051,104"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1743,31,1936,76,1935,81,1742,36"/>
+<area shape="rect" id="Node000017" href="$thread_8cc.html" title="Routines to manage threads." alt="" coords="2075,79,2202,104"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="1762,29,2076,78,2075,83,1761,35"/>
+<area shape="rect" id="Node000018" href="$machine_8cc.html" title="Routines to simulate the execution of user programs. DO NOT CHANGE – part of the machine emulation." alt="" coords="2226,79,2382,104"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="1762,25,2215,76,2226,77,2225,83,2214,81,1762,31"/>
+<area shape="rect" id="Node000019" href="$mmu_8cc.html" title="Routines to translate virtual addresses to physical addresses." alt="" coords="2406,79,2541,104"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="1762,22,2042,42,2395,76,2406,77,2406,83,2394,81,2042,48,1762,27"/>
+<area shape="rect" id="Node000020" href="$sysdep_8cc.html" title="Implementation of system&#45;dependent interface." alt="" coords="2565,79,2712,104"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="1762,20,2107,40,2329,56,2554,76,2565,77,2565,83,2553,81,2329,61,2106,45,1761,26"/>
+<area shape="rect" id="Node000021" href="$bitmap_8cc.html" title="Routines to manage a bitmap." alt="" coords="2736,79,2864,104"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="1762,19,2176,36,2448,52,2724,76,2736,77,2735,83,2724,81,2448,58,2175,41,1762,24"/>
+<area shape="rect" id="Node000022" href="$config_8cc.html" title=" " alt="" coords="2889,79,3010,104"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="1762,18,2235,32,2553,49,2876,76,2889,77,2888,83,2876,81,2553,55,2235,38,1762,23"/>
+<area shape="rect" id="Node000023" href="$pagefaultmanager_8cc.html" title=" " alt="" coords="3035,79,3219,104"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="1762,18,2292,35,2654,52,3023,76,3034,77,3034,82,3022,81,2654,58,2292,41,1762,24"/>
+<area shape="rect" id="Node000024" href="$physMem_8cc.html" title=" " alt="" coords="3243,79,3373,104"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="1762,17,2010,19,2373,27,2798,45,3016,59,3231,76,3243,77,3243,83,3230,81,3016,64,2797,50,2373,33,2010,24,1762,22"/>
+<area shape="rect" id="Node000025" href="$swapManager_8cc.html" title="Routines of the swap manager." alt="" coords="3397,79,3552,104"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="1762,17,2032,20,2432,28,2903,46,3147,59,3386,76,3397,77,3397,82,3385,81,3147,64,2903,51,2432,33,2032,25,1762,22"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="1039,115,992,154,988,150,1036,110"/>
+<area shape="rect" id="Node000010" href="$elf_8cc.html" title=" " alt="" coords="1075,152,1175,177"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1083,113,1117,150,1113,154,1079,116"/>
+</map>

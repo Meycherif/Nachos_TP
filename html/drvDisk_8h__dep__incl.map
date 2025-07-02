@@ -1,0 +1,15 @@
+<map id="drivers/drvDisk.h" name="drivers/drvDisk.h">
+<area shape="rect" id="Node000001" title="Data structures to export a synchronous interface to the raw disk device." alt="" coords="403,5,536,31"/>
+<area shape="rect" id="Node000002" href="$drvDisk_8cc.html" title="Routines to synchronously access the disk." alt="" coords="5,79,144,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,36,139,81,138,76,392,30"/>
+<area shape="rect" id="Node000003" href="$filehdr_8cc.html" title="Routines for managing the disk file header." alt="" coords="169,79,295,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,37,271,81,270,76,417,32"/>
+<area shape="rect" id="Node000004" href="$openfile_8cc.html" title="Routines to manage an open Nachos file" alt="" coords="320,79,459,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,42,404,80,401,76,445,38"/>
+<area shape="rect" id="Node000005" href="$system_8cc.html" title="Nachos initialization and cleanup routines." alt="" coords="483,79,615,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="494,38,538,76,534,80,490,42"/>
+<area shape="rect" id="Node000006" href="$machine_8cc.html" title="Routines to simulate the execution of user programs. DO NOT CHANGE – part of the machine emulation." alt="" coords="639,79,795,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="523,32,678,76,676,81,522,37"/>
+<area shape="rect" id="Node000007" href="$swapManager_8cc.html" title="Routines of the swap manager." alt="" coords="820,79,975,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="550,30,829,76,828,81,549,35"/>
+</map>

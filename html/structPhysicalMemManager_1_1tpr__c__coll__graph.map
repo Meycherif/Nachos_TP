@@ -1,0 +1,21 @@
+<map id="PhysicalMemManager::tpr_c" name="PhysicalMemManager::tpr_c">
+<area shape="rect" id="Node000001" title="Describes the allocation of physical pages. Bits U (used/referenced) and M (modified/dirty) are in th..." alt="" coords="5,1820,164,1940"/>
+<area shape="rect" id="Node000002" href="$classAddrSpace.html" title="Defines the data structures to keep track of memory resources of executing user programs (address spa..." alt="" coords="75,1379,267,1625"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,1626,105,1701,89,1779,86,1804,81,1803,83,1778,100,1700,123,1624"/>
+<area shape="rect" id="Node000005" href="$classProcess.html" title="Defines the data structures to keep track of the execution environment of a user program." alt="" coords="270,1817,379,1943"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="161,1625,162,1667,168,1710,179,1753,198,1792,224,1823,257,1847,254,1851,220,1827,193,1795,174,1755,163,1711,157,1668,156,1625"/>
+<area shape="rect" id="Node000003" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="7,921,165,1187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,1187,90,1225,104,1295,123,1363,118,1364,99,1296,85,1226,81,1187"/>
+<area shape="rect" id="Node000004" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="17,573,155,799"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,799,89,905,83,905,83,799"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="294,1818,284,1794,221,1641,226,1639,288,1792,299,1816"/>
+<area shape="rect" id="Node000006" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="271,513,403,859"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="341,859,349,1779,349,1794,348,1801,342,1801,343,1793,343,1779,336,859"/>
+<area shape="rect" id="Node000009" href="$structs__mapped__file.html" title="Information describing a memory&#45;mapped file." alt="" coords="202,1011,314,1097"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="302,859,273,996,268,995,297,858"/>
+<area shape="rect" id="Node000007" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="259,5,414,451"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="339,451,339,497,334,497,334,451"/>
+<area shape="rect" id="Node000008" href="$classProcessStat.html" title="Defines statistics that concern a particular process." alt="" coords="402,1249,597,1755"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="405,1756,386,1795,380,1805,375,1802,381,1792,400,1754"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="253,1097,201,1363,196,1362,247,1096"/>
+</map>

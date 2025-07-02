@@ -1,0 +1,23 @@
+<map id="kernel/scheduler.h" name="kernel/scheduler.h">
+<area shape="rect" id="Node000001" title="Defines the Nachos scheduler." alt="" coords="5,5,145,31"/>
+<area shape="rect" id="Node000002" href="$copyright_8h.html" title="Nachos copyright notice." alt="" coords="59,299,198,324"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,32,63,64,60,84,61,104,76,178,103,250,119,285,114,287,98,252,71,179,55,104,55,84,58,63,68,30"/>
+<area shape="rect" id="Node000003" href="$list_8h.html" title="Data structures to manage LISP&#45;like lists." alt="" coords="70,79,166,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,30,106,66,102,68,80,32"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="118,105,110,167,108,209,111,250,121,285,116,287,106,251,103,209,104,167,113,104"/>
+<area shape="rect" id="Node000004" href="$utility_8h.html" title="Miscellaneous useful definitions, including debugging routines." alt="" coords="190,152,302,177"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="140,102,214,143,212,147,137,106"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="247,178,240,213,233,233,221,252,197,276,169,294,166,290,194,272,217,249,228,231,235,212,242,177"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="264,299,335,324"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="253,177,293,285,288,287,248,179"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="121,225,208,251"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="235,179,190,218,186,214,231,175"/>
+<area shape="rect" id="Node000007" href="$sysdep_8h.html" title="System&#45;dependent interface." alt="" coords="335,225,475,251"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="273,175,367,217,365,222,270,180"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="361,253,187,298,186,293,360,248"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="389,253,329,293,326,289,386,248"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="461,299,527,324"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="421,249,470,288,467,292,417,253"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="365,299,436,324"/>
+<area shape="poly" id="edge12_Node000007_Node000009" title=" " alt="" coords="407,251,405,285,399,285,401,251"/>
+</map>

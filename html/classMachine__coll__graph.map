@@ -1,0 +1,22 @@
+<map id="Machine" name="Machine">
+<area shape="rect" id="Node000001" title="Defines the simulated execution hardware." alt="" coords="373,1064,518,1589"/>
+<area shape="rect" id="Node000002" href="$classMMU.html" title="Defines a MMU &#45; Memory Management Unit." alt="" coords="712,751,819,897"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="743,898,725,943,702,988,662,1053,618,1117,531,1230,527,1227,614,1114,658,1051,698,985,720,941,739,896"/>
+<area shape="rect" id="Node000003" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="687,313,844,579"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="768,579,768,735,763,735,763,579"/>
+<area shape="rect" id="Node000004" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="697,5,834,231"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="768,231,768,297,763,297,763,231"/>
+<area shape="rect" id="Node000005" href="$classACIA.html" title="Defines an ACIA (Asynchronous Communication Interface Adapter) device. An ACIA is an asynchronous dev..." alt="" coords="24,681,189,967"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,966,204,985,285,1105,365,1214,360,1218,281,1108,199,988,187,968"/>
+<area shape="rect" id="Node000006" href="$classACIA__sysdep.html" title="This class is used to simulate an Asynchronous Communicating Interface Adapter on top of Unix sockets..." alt="" coords="5,1234,139,1419"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="99,967,82,1218,77,1218,94,967"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="41,1235,30,1183,22,1127,20,1068,27,1010,34,982,39,983,32,1011,26,1068,28,1126,35,1182,46,1233"/>
+<area shape="rect" id="Node000007" href="$classInterrupt.html" title="Defines a low level interrupt hardware." alt="" coords="214,661,346,987"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="336,986,370,1089,365,1091,331,988"/>
+<area shape="rect" id="Node000008" href="$classList.html" title="Definition of a generic single&#45;linked &quot;list&quot;." alt="" coords="213,293,347,599"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="283,599,283,645,277,645,277,599"/>
+<area shape="rect" id="Node000009" href="$classDisk.html" title="Defines a physical disk I/O device." alt="" coords="371,671,520,977"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="448,977,448,1048,443,1048,443,977"/>
+<area shape="rect" id="Node000010" href="$classConsole.html" title="Defines a hardware console device." alt="" coords="544,661,688,987"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="563,988,526,1098,521,1096,558,986"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="DriverConsole" name="DriverConsole">
+<area shape="rect" id="Node000001" title="Defines a &quot;synchronous&quot; console abstraction." alt="" coords="209,2060,351,2225"/>
+<area shape="rect" id="Node000002" href="$classLock.html" title="Defines the &quot;lock&quot; synchronization tool." alt="" coords="261,1777,451,1983"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,1984,311,2045,306,2043,324,1982"/>
+<area shape="rect" id="Node000003" href="$classList.html" title="Definition of a generic single&#45;linked &quot;list&quot;." alt="" coords="107,1409,242,1715"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,1697,257,1713,272,1725,287,1737,305,1762,301,1765,283,1741,268,1729,253,1717,240,1700"/>
+<area shape="rect" id="Node000015" href="$classSemaphore.html" title="Defines the &quot;semaphore&quot; synchronization tool." alt="" coords="113,1787,237,1973"/>
+<area shape="poly" id="edge17_Node000015_Node000003" title=" " alt="" coords="177,1715,177,1771,172,1771,172,1715"/>
+<area shape="rect" id="Node000004" href="$classThread.html" title="Data structures for managing threads" alt="" coords="529,1409,703,1715"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="531,1670,452,1766,448,1763,527,1667"/>
+<area shape="rect" id="Node000005" href="$classProcess.html" title="Defines the data structures to keep track of the execution environment of a user program." alt="" coords="399,1151,508,1277"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="485,1276,540,1393,535,1395,480,1278"/>
+<area shape="rect" id="Node000008" href="$classAddrSpace.html" title="Defines the data structures to keep track of memory resources of executing user programs (address spa..." alt="" coords="267,1439,459,1685"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="460,1277,458,1330,449,1386,437,1425,432,1423,444,1385,453,1330,454,1277"/>
+<area shape="rect" id="Node000006" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="195,593,327,939"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="315,938,346,1018,376,1078,408,1136,404,1138,372,1081,342,1020,310,940"/>
+<area shape="rect" id="Node000011" href="$structs__mapped__file.html" title="Information describing a memory&#45;mapped file." alt="" coords="197,1171,309,1257"/>
+<area shape="poly" id="edge12_Node000011_Node000006" title=" " alt="" coords="261,939,257,1155,252,1155,256,939"/>
+<area shape="rect" id="Node000007" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="184,5,339,451"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="264,451,264,577,259,577,259,451"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="352,1439,355,1404,361,1370,377,1328,397,1289,402,1292,382,1330,367,1371,360,1405,357,1440"/>
+<area shape="rect" id="Node000009" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="5,1081,163,1347"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="107,1346,119,1366,134,1383,148,1393,162,1398,190,1398,221,1396,237,1399,255,1407,279,1426,276,1430,252,1412,236,1404,220,1401,191,1403,161,1403,146,1398,130,1387,114,1369,102,1348"/>
+<area shape="rect" id="Node000010" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="15,653,153,879"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="87,879,87,1065,81,1065,81,879"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="252,1257,252,1318,255,1352,263,1385,277,1424,272,1426,257,1386,250,1353,247,1318,247,1257"/>
+<area shape="rect" id="Node000012" href="$classProcessStat.html" title="Defines statistics that concern a particular process." alt="" coords="356,513,551,1019"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="456,1019,456,1135,451,1135,451,1019"/>
+<area shape="rect" id="Node000013" href="$structsimulatorContextT.html" title="Defines the context of the Nachos simulator." alt="" coords="595,1161,730,1267"/>
+<area shape="poly" id="edge14_Node000004_Node000013" title=" " alt="" coords="658,1267,641,1393,636,1393,653,1267"/>
+<area shape="rect" id="Node000014" href="$structthreadContextT.html" title="Defines the thread context (MIPS virtual machine)" alt="" coords="766,1161,887,1267"/>
+<area shape="poly" id="edge15_Node000004_Node000014" title=" " alt="" coords="821,1268,806,1326,781,1387,751,1432,716,1473,712,1469,747,1428,776,1384,801,1325,816,1266"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="214,1972,243,2043,238,2045,209,1974"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="Process" name="Process">
+<area shape="rect" id="Node000001" title="Defines the data structures to keep track of the execution environment of a user program." alt="" coords="349,1151,459,1277"/>
+<area shape="rect" id="Node000004" href="$classAddrSpace.html" title="Defines the data structures to keep track of memory resources of executing user programs (address spa..." alt="" coords="208,1409,400,1655"/>
+<area shape="poly" id="edge6_Node000004_Node000001" title=" " alt="" coords="387,1278,350,1395,345,1393,382,1276"/>
+<area shape="rect" id="Node000002" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="177,593,309,939"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,938,338,1056,372,1135,367,1137,334,1058,291,940"/>
+<area shape="rect" id="Node000007" href="$structs__mapped__file.html" title="Information describing a memory&#45;mapped file." alt="" coords="187,1171,299,1257"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="245,939,245,1155,240,1155,240,939"/>
+<area shape="rect" id="Node000003" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="165,5,320,451"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,451,245,577,240,577,240,451"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="398,1436,414,1411,427,1384,433,1362,434,1339,429,1293,434,1292,440,1339,438,1363,432,1386,419,1414,403,1439"/>
+<area shape="rect" id="Node000005" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="5,1081,163,1347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="100,1346,117,1384,153,1428,196,1466,193,1470,149,1432,112,1387,95,1348"/>
+<area shape="rect" id="Node000006" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="15,653,153,879"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,879,87,1065,81,1065,81,879"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="240,1257,238,1318,244,1385,246,1393,241,1394,239,1386,232,1318,235,1257"/>
+<area shape="rect" id="Node000008" href="$classProcessStat.html" title="Defines statistics that concern a particular process." alt="" coords="333,513,528,1019"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="418,1019,411,1135,406,1135,413,1019"/>
+</map>

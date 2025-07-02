@@ -1,0 +1,15 @@
+<map id="machine" name="machine">
+<area shape="rect" id="node1" href="dir_0909f4a7c39d3e9616c1c9d755842fcb.html" title="machine" alt="" coords="125,5,203,31"/>
+<area shape="rect" id="node2" href="dir_14bc92f4b96c8519b376567118ac28b3.html" title="drivers" alt="" coords="5,79,72,104"/>
+<area shape="poly" id="edge1" href="dir_000003_000000.html" alt="" coords="145,33,72,74,70,69,143,28"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000003_000000.html" title="3" alt="" coords="74,70,84,84"/>
+<area shape="rect" id="node3" href="dir_64e73385a8b7738563c26ce10415b58d.html" title="utility" alt="" coords="97,79,157,104"/>
+<area shape="poly" id="edge2" href="dir_000003_000005.html" alt="" coords="160,32,141,68,137,65,155,30"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000003_000005.html" title="15" alt="" coords="140,59,157,74"/>
+<area shape="rect" id="node4" href="dir_93effe02d2e8dd09437fb49d0adaddf7.html" title="vm" alt="" coords="181,79,224,104"/>
+<area shape="poly" id="edge3" href="dir_000003_000006.html" alt="" coords="173,30,192,65,188,68,168,32"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000003_000006.html" title="2" alt="" coords="190,51,200,66"/>
+<area shape="rect" id="node5" href="dir_dc43877d82dd332f9fb2071fcca799d6.html" title="kernel" alt="" coords="249,79,311,104"/>
+<area shape="poly" id="edge4" href="dir_000003_000002.html" alt="" coords="184,28,251,69,248,74,181,33"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000003_000002.html" title="24" alt="" coords="241,54,259,69"/>
+</map>

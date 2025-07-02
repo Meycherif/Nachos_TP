@@ -1,0 +1,28 @@
+<map id="PhysicalMemManager" name="PhysicalMemManager">
+<area shape="rect" id="Node000001" title="Implements the physical page management." alt="" coords="393,2180,653,2405"/>
+<area shape="rect" id="Node000002" href="$structPhysicalMemManager_1_1tpr__c.html" title="Describes the allocation of physical pages. Bits U (used/referenced) and M (modified/dirty) are in th..." alt="" coords="358,1915,517,2035"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,2034,491,2163,486,2165,451,2036"/>
+<area shape="rect" id="Node000003" href="$classAddrSpace.html" title="Defines the data structures to keep track of memory resources of executing user programs (address spa..." alt="" coords="283,1379,475,1625"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,1625,431,1898,426,1899,391,1625"/>
+<area shape="rect" id="Node000006" href="$classProcess.html" title="Defines the data structures to keep track of the execution environment of a user program." alt="" coords="143,1912,252,2037"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="356,1626,331,1717,297,1809,275,1855,250,1899,245,1897,270,1853,292,1807,326,1715,351,1624"/>
+<area shape="rect" id="Node000004" href="$classTranslationTable.html" title="Defines the data structures used for address translation." alt="" coords="300,921,458,1187"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="382,1187,382,1363,376,1363,376,1187"/>
+<area shape="rect" id="Node000005" href="$classPageTableEntry.html" title="Defines an entry in a simple translation table." alt="" coords="310,573,448,799"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="382,799,382,905,376,905,376,799"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="195,1911,205,1844,216,1809,233,1777,242,1768,251,1764,260,1760,269,1753,306,1698,334,1639,339,1641,310,1701,273,1756,263,1765,253,1769,245,1772,237,1780,221,1811,210,1845,200,1912"/>
+<area shape="rect" id="Node000007" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="58,513,190,859"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="79,859,40,1047,24,1156,13,1273,8,1394,12,1516,27,1637,55,1754,70,1793,89,1831,135,1898,130,1901,84,1833,65,1795,50,1755,22,1638,7,1516,3,1394,7,1272,19,1156,35,1046,73,858"/>
+<area shape="rect" id="Node000010" href="$structs__mapped__file.html" title="Information describing a memory&#45;mapped file." alt="" coords="116,1011,228,1097"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="149,858,167,995,162,996,144,859"/>
+<area shape="rect" id="Node000008" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="47,5,202,451"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="127,451,127,497,122,497,122,451"/>
+<area shape="rect" id="Node000009" href="$classProcessStat.html" title="Defines statistics that concern a particular process." alt="" coords="64,1249,259,1755"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="161,1755,166,1808,181,1896,175,1896,160,1808,156,1755"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="197,1096,273,1248,325,1363,320,1365,268,1250,192,1098"/>
+<area shape="rect" id="Node000011" href="$classList.html" title=" " alt="" coords="541,1832,676,2117"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="572,2118,560,2165,555,2163,567,2117"/>
+<area shape="rect" id="Node000012" href="$classListElement.html" title=" " alt="" coords="539,1459,678,1545"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="611,1545,611,1815,606,1815,606,1545"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="639,1457,662,1447,683,1451,698,1470,704,1502,700,1530,689,1549,672,1557,654,1555,654,1550,671,1552,685,1545,695,1528,699,1502,694,1472,680,1455,662,1452,641,1462"/>
+</map>

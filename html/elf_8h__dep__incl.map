@@ -1,0 +1,7 @@
+<map id="kernel/elf.h" name="kernel/elf.h">
+<area shape="rect" id="Node000001" title="Data structures pertaining to the ELF32 and ELF64 1.1 file format specification." alt="" coords="108,5,203,31"/>
+<area shape="rect" id="Node000002" href="$addrspace_8cc.html" title="Routines to manage address spaces (executing user programs)." alt="" coords="5,79,156,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,42,95,80,91,77,132,38"/>
+<area shape="rect" id="Node000003" href="$elf_8cc.html" title=" " alt="" coords="180,79,280,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,38,220,77,216,80,175,42"/>
+</map>

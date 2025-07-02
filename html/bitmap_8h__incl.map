@@ -1,0 +1,41 @@
+<map id="utility/bitmap.h" name="utility/bitmap.h">
+<area shape="rect" id="Node000001" title="Data structures defining a bitmap." alt="" coords="239,5,361,31"/>
+<area shape="rect" id="Node000002" href="$copyright_8h.html" title="Nachos copyright notice." alt="" coords="109,519,248,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,25,166,36,128,46,91,60,58,78,32,101,14,129,8,164,8,386,11,409,20,429,33,448,50,465,91,492,132,511,130,516,88,496,47,469,29,451,15,432,6,410,3,386,3,163,9,127,28,97,55,74,88,55,126,41,165,31,238,20"/>
+<area shape="rect" id="Node000003" href="$utility_8h.html" title="Miscellaneous useful definitions, including debugging routines." alt="" coords="413,372,525,397"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="362,24,424,39,488,65,515,83,537,105,552,132,557,163,557,240,551,276,535,311,514,340,494,364,490,360,510,337,530,308,546,275,552,239,552,164,547,134,533,108,512,87,485,69,423,44,361,30"/>
+<area shape="rect" id="Node000009" href="$openfile_8h.html" title="Data structures to manipulate files." alt="" coords="234,79,366,104"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="303,31,303,65,297,65,297,31"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="447,400,215,515,213,510,445,395"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="619,519,690,544"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,392,580,410,607,424,630,444,648,473,655,505,650,506,643,475,626,447,604,429,578,415,525,397"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="530,445,617,471"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="488,395,546,435,543,439,485,400"/>
+<area shape="rect" id="Node000006" href="$sysdep_8h.html" title="System&#45;dependent interface." alt="" coords="366,445,506,471"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="466,399,450,434,445,432,461,397"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="395,473,234,518,233,512,394,468"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="472,468,607,512,605,517,470,473"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="276,519,343,544"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="417,473,343,514,341,509,414,468"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="401,519,471,544"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="439,471,439,505,433,505,433,471"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="235,105,177,121,119,146,95,164,76,184,63,209,59,237,59,386,61,406,67,425,90,459,119,488,148,509,145,514,116,492,86,462,63,427,56,407,53,386,53,236,58,207,71,181,91,160,117,142,175,116,233,100"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="320,102,348,123,377,150,413,202,440,260,457,315,467,358,462,359,452,316,435,262,409,205,373,154,344,127,316,107"/>
+<area shape="rect" id="Node000010" href="$system_8h.html" title="Global variables used in Nachos." alt="" coords="237,152,363,177"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="303,104,303,138,297,138,297,104"/>
+<area shape="poly" id="edge16_Node000010_Node000004" title=" " alt="" coords="329,175,400,210,493,266,541,303,586,345,625,392,657,444,664,475,663,505,658,505,659,476,652,446,621,395,582,349,537,307,490,271,397,214,327,180"/>
+<area shape="poly" id="edge15_Node000010_Node000007" title=" " alt="" coords="312,176,349,226,367,261,380,298,381,317,377,342,362,400,322,507,317,505,357,398,372,341,375,317,375,299,363,263,344,229,308,179"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="315,299,365,324"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="308,177,325,225,339,285,333,286,320,226,303,179"/>
+<area shape="rect" id="Node000012" href="$list_8h.html" title="Data structures to manage LISP&#45;like lists." alt="" coords="93,299,189,324"/>
+<area shape="poly" id="edge18_Node000010_Node000012" title=" " alt="" coords="258,180,215,198,195,211,177,227,159,256,149,286,143,284,154,253,173,224,191,207,213,194,256,175"/>
+<area shape="rect" id="Node000013" href="$objaddr_8h.html" title="Object address data structure." alt="" coords="187,225,311,251"/>
+<area shape="poly" id="edge21_Node000010_Node000013" title=" " alt="" coords="287,179,260,215,255,212,283,176"/>
+<area shape="poly" id="edge19_Node000012_Node000002" title=" " alt="" coords="146,324,177,505,172,505,141,325"/>
+<area shape="poly" id="edge20_Node000012_Node000003" title=" " alt="" coords="190,320,403,366,402,372,189,326"/>
+<area shape="poly" id="edge22_Node000013_Node000002" title=" " alt="" coords="249,251,187,506,182,505,244,250"/>
+<area shape="poly" id="edge23_Node000013_Node000003" title=" " alt="" coords="256,250,274,285,288,305,304,322,351,350,401,367,399,372,349,354,301,326,283,308,269,288,251,252"/>
+<area shape="poly" id="edge25_Node000013_Node000010" title=" " alt="" coords="262,224,290,188,294,191,267,227"/>
+<area shape="poly" id="edge26_Node000013_Node000011" title=" " alt="" coords="266,249,316,288,313,292,262,253"/>
+<area shape="poly" id="edge24_Node000013_Node000012" title=" " alt="" coords="233,253,172,293,169,289,231,248"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="FileSystem" name="FileSystem">
+<area shape="rect" id="Node000001" title="Defines the Nachos file system." alt="" coords="12,936,153,1201"/>
+<area shape="rect" id="Node000002" href="$classOpenFile.html" title="Defines the data structure maintained when a file is opened." alt="" coords="17,513,149,859"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,859,85,919,80,919,80,859"/>
+<area shape="rect" id="Node000003" href="$classFileHeader.html" title="Defines a file header in the Nachos file system." alt="" coords="5,5,160,451"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,451,85,497,80,497,80,451"/>
+</map>
